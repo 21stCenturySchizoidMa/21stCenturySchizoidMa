@@ -4,7 +4,7 @@
 - Estudo java e python. Aqui encontrarão meus projetos pessoais e da faculdade.  
   
 
-- atualmente estou iniciando meus estudos em python na área de IA e pretendo iniciar meus estudos em C#.  
+- atualmente estou iniciando meus estudos em python.  
   
 
 <br/>  
